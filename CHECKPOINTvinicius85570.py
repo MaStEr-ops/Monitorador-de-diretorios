@@ -1,5 +1,5 @@
 #VINICIUS DE JESUS CORREIA 
-#RM 85570SS
+#Este programa ira monitorar o repositorio onde ele se encontra, por isso execute-o no dentro do diretorio que deseja monitorar
 from time import sleep
 from os import path
 from watchdog.observers import Observer
